@@ -8,3 +8,11 @@ This is basically a custom [DuinoCoin](https://github.com/revoxhere/duino-coin) 
 
 ## Requirements
 Make sure you have [Python 3](https://www.python.org/downloads/) installed and also have pip install everything in `requirements.txt`. I personally use [Python 3.7.9](https://www.python.org/downloads/release/python-379/), but any other version should work just fine.
+
+## Previews
+
+![Python Version](/blobs/preview.png)
+
+![Single Miner Preview](/blobs/preview-1.png)
+
+![Threaded Miner Preview](/blobs/preview-2.png)

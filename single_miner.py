@@ -131,7 +131,8 @@ def main():
                     logger(0, msg)
                 else:
                     logger(9, f'Rejected Share, Block {target}')
-            
+        except KeyboardInterrupt:    
+            raise KeyboardInterrupt()
         except:
             logger(2, "Miner failed, retrying after 15 seconds")
             sleep(15)
