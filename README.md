@@ -12,8 +12,8 @@ Make sure you have [Python 3](https://www.python.org/downloads/) installed and a
 
 ## Previews
 
-![Python Version](https://github.com/CorneliusTantius/DuinoCoin-DinoMiner/tree/main/blobs/preview.PNG?raw=true)
+![Preview-1](https://github.com/CorneliusTantius/DuinoCoin-DinoMiner/tree/main/blobs/preview.PNG?raw=true)
 
-![Single Miner Preview](https://github.com/CorneliusTantius/DuinoCoin-DinoMiner/tree/main/blobs/preview-1.PNG?raw=true)
+![Preview-2](https://github.com/CorneliusTantius/DuinoCoin-DinoMiner/tree/main/blobs/preview-1.PNG?raw=true)
 
-![Threaded Miner Preview](https://github.com/CorneliusTantius/DuinoCoin-DinoMiner/tree/main/blobs/preview-2.PNG?raw=true)
+![Preview-3](https://github.com/CorneliusTantius/DuinoCoin-DinoMiner/tree/main/blobs/preview-2.PNG?raw=true)
