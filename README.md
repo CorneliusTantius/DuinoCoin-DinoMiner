@@ -5,6 +5,7 @@ This is basically a custom [DuinoCoin](https://github.com/revoxhere/duino-coin) 
 ## Duino Coin
 ᕲ Duino-Coin is a coin that can be mined with almost everything, including Arduino boards.
 
+Project Link: https://github.com/revoxhere/duino-coin/
 
 ## Requirements
 Make sure you have [Python 3](https://www.python.org/downloads/) installed and also have pip install everything in `requirements.txt`. I personally use [Python 3.7.9](https://www.python.org/downloads/release/python-379/), but any other version should work just fine.
